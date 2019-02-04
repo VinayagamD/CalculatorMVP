@@ -1,7 +1,7 @@
 # CalculatorMVP
 MVP Contract App For Android
 
-__ Purpose of this repo is undersand MVP Pattern with Kotlin __
+__Purpose of this repo is undersand MVP Pattern with Kotlin__
 
 The example used hear is the calculator implemmenting MVP Pattern with kotlin language for android
 
